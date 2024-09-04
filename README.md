@@ -1,2 +1,2 @@
-# GUTLab1
+# GITLab1
 1st lab
